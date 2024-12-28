@@ -11,15 +11,15 @@ Sono i versi con cui si apre il _Dhammapada_: e non sono affatto di semplice tra
 Prima di decicere procediamo. _Seṭṭhā_ è eccellente, migliore; _maya_ invece è prodotto, creato da. Dunque: i _dhamma_ hanno la mente come elemento centrale, sono prodotti dalla mente.
 Proviamo a tradurre:
 
-I fenomeni sono preceduti dalla mente;
+I fenomeni sono preceduti dalla mente;  
 la mente ne è la parte principale: sono fatti di mente.
 
 E proseguiamo:
 
-Se con una mente corrotta
-(uno) parla o agisce
-la sofferenza segue
-come la ruota segue l'impronta.
+Se con una mente corrotta  
+(uno) parla o agisce  
+la sofferenza segue  
+come la ruota segue l'impronta.  
 
 Qui il senso è ben chiaro. È impossibile essere felici se si ha una mente corrotta. _Dukkha_ qui è ricondotto alla sua originaria relazione col carro.
 
