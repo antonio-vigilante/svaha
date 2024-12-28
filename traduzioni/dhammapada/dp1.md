@@ -15,12 +15,12 @@ Vediamo intanto quello che segue. _Seṭṭhā_ è eccellente, migliore; _maya_ 
 
 Proviamo a tradurre:
 
-I fenomeni sono preceduti dalla mente;  
+> I fenomeni sono preceduti dalla mente;  
 la mente ne è la parte principale: sono fatti di mente.
 
 E proseguiamo:
 
-Se con una mente corrotta  
+> Se con una mente corrotta  
 (uno) parla o agisce  
 la sofferenza segue  
 come la ruota del carro segue l'impronta di chi lo traina. 
@@ -29,6 +29,8 @@ Qui il senso è ben chiaro: è impossibile essere felici se si ha una mente corr
 
 > Naturæ a mente principium ducunt, mens est potior pars earum, e mente constant; si (quis) mente inquinata aut loquitur aut agit, tum eum sequitur dolor, ut rota (bovis) vehentis pedem. [^1]
 
+Natura può essere una buona traduzione di _dhamma_. La natura del mondo che ci circonda non è altro dalla mente. Ma non è una dichiarazione di idealismo. La mente non genera il mondo: genera _il nostro mondo_, il campo in cui ci aggiriamo, che può essere angusto e causa di sofferenza se la mente è impura.
 
 
-[^1]: _Dhammapadam. Ex tribus codicibus Hauniensibus Palice edidit, Latine vertit, excerptis ex commentario Palico notisque illustravit V. Fausbøll, Apud haeredes Reitzelii, Apud Lorckium, Apud Williams & Norgate, Hauniae, Lipsiae, Londini 1855, p. 1.
+
+[^1]: _Dhammapadam_. Ex tribus codicibus Hauniensibus Palice edidit, Latine vertit, excerptis ex commentario Palico notisque illustravit V. Fausbøll, Apud haeredes Reitzelii, Apud Lorckium, Apud Williams & Norgate, Hauniae, Lipsiae, Londini 1855, p. 1.
