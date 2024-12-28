@@ -1,6 +1,5 @@
 ---
-title: "pareiysana"
-layout: default
+show_title: false
 ---
 
 
