@@ -1,9 +1,3 @@
----
-title: "pariyesana"
-show_title: false
----
-
-
 # paryesana
 
 ### Passi nel Dharma del Buddha
