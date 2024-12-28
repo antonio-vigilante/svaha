@@ -6,4 +6,4 @@ Sono Antonio Vigilante, autore de *La luna nell'acqua. Una mappa per perdersi ne
 
 # Traduzioni 
 
-[Dhanmapada](dhammapada.md)
+[Dhammapada](dhammapada.md)
