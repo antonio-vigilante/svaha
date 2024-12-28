@@ -1,5 +1,6 @@
 # paryesana
 
-Passi nel Dharma del Buddha
+### Passi nel Dharma del Buddha
 
+![](mudra.jpg)
 
