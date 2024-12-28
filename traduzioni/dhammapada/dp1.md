@@ -25,7 +25,7 @@ E proseguiamo:
 la sofferenza segue  
 come la ruota del carro segue l'impronta di chi lo traina. 
 
-Qui il senso è ben chiaro: è impossibile essere felici se si ha una mente corrotta. E sicuramente è difficile essere felici se si hanno pensieri corrotti, ma mi sembra che il passo ponga il problema del rapporto tra mente e mondo. È interessante il modo in cui tradusse il passo un pioniere, il filologo e orientalista danese Michael Viggo Fausböll, nella sua edizione latina del _Dhammapada_ del 1855.
+Qui il senso è ben chiaro: è impossibile essere felici se si ha una mente corrotta. E sicuramente è difficile essere felici se si hanno pensieri scombinati, ma mi sembra che il passo ponga il problema del rapporto tra mente e mondo. È interessante il modo in cui tradusse il passo un pioniere, il filologo e orientalista danese Michael Viggo Fausböll, nella sua edizione latina del _Dhammapada_ del 1855.
 
 > Naturæ a mente principium ducunt, mens est potior pars earum, e mente constant; si (quis) mente inquinata aut loquitur aut agit, tum eum sequitur dolor, ut rota (bovis) vehentis pedem. [^1]
 
