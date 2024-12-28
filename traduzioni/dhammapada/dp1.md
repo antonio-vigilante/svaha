@@ -1,6 +1,6 @@
 # Cakkhupālattheravatthu
 
-Manopubbaṅgamā dhammā,
+Manopubbaṅgamā dhammā,  
 manoseṭṭhā manomayā;  
 Manasā ce paduṭṭhena,  
 bhāsati vā karoti vā;  
