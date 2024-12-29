@@ -1,4 +1,4 @@
-## La mente, le cose e la sofferenza
+## Il mondo della mente
 
 ### Dhammapada 1
 
