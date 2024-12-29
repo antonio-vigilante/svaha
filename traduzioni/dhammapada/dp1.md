@@ -27,4 +27,4 @@ come la ruota del carro segue l'impronta di chi lo traina.
 
 Immaginiamo che i nostri occhi abbiano il potere di generale immagini, di costruire il mondo in cui ci muoviamo; e che costantemente le orecchie sappiano creare i suoi che ascoltano. Non sono sicuro che sarebbe una cosa buona. Con ogni probabilmente saremmo immersi in un mondo infinitamente meno bello di quello che ci circonda, e nulla sapremmo della musica di Buxtehude o di Mozart. Ma questo è ciò che fa in noi la mente. Costruisce di continuo il suo oggetto, quel mondo interiore che in cui siamo costantemente immersi, al punto da identificarlo senz'altro con noi stessi ("Tutto ciò che siamo è generato dalla mente", traduce Chandra Livia Candiani). E spesso costruisce pessimi mondi, nei quali soffochiamo un giorno dopo l'altro. Di questo si occupa il dharma del Buddha.
 
-
+29.12.2024
