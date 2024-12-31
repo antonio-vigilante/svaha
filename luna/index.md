@@ -6,5 +6,5 @@ Antonio Vigilante, _La luna nell'acqua. Una mappa per perdersi nel Dharma del Bu
 
 [Introduzione](introduzione.md)  
 [Nota](nota.md)    
-[Una storia](una-storia.nmd)    
+[Una storia](una-storia.md)    
 [Il male](il-male.md)    
