@@ -10,6 +10,6 @@ Il Buddha diceva di non essere un maestro “dal pugno chiuso”, di quelli che 
 
 [Leggi online](luna/indice.md)
 
-#### Testi 
+### Testi 
 
 [Dhammapada](traduzioni/dhammapada/index.md)
