@@ -10,3 +10,5 @@ Antonio Vigilante, _La luna nell'acqua. Una mappa per perdersi nel Dharma del Bu
 [Il male](il-male.md)    
 [Psicoterapia](psicoterapia.md)  
 [Tarkus](tarkus.md)
+[Io, anzi no](io-anzi-no.md)  
+[Havel havalim](havel-havalim.md) 
