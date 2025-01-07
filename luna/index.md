@@ -16,3 +16,6 @@ Antonio Vigilante, _La luna nell'acqua. Una mappa per perdersi nel Dharma del Bu
 [Il carro](il-carro.md)  
 [Il gioco](il-gioco.md)  
 [Al mercato, con le mani aperte](al-mercato.md)  
+[Le viscere del Buddha](le-viscere-del-Buddha.md)  
+[Lo scassinatore](lo-scassinatore.md)  
+
