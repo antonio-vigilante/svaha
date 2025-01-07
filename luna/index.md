@@ -18,4 +18,5 @@ Antonio Vigilante, _La luna nell'acqua. Una mappa per perdersi nel Dharma del Bu
 [Al mercato, con le mani aperte](al-mercato.md)  
 [Le viscere del Buddha](le-viscere-del-Buddha.md)  
 [Lo scassinatore](lo-scassinatore.md)  
+[Quale vittoria?](quale-vittoria.md)  
 
