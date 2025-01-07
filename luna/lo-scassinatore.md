@@ -6,7 +6,7 @@ Un giorno il Buddha, seguito da cinquecento monaci, si trovava in un parco. Un c
 Il discorso era per marcare la differenza tra il Tathagata e il _puthjjana_, l’uomo della strada (in un altro tempo e in un altro luogo, un uomo chiederà ai suoi discepoli: “La gente chi dice che io sia?”); eppure v’è in esso qualcosa di sorprendente: la straordinaria conoscenza dei giochi da parte del Buddha, sia dei giochi infantili che di quelli d’azzardo, sia di quelli che si fanno con il corpo che di quelli che si fanno con degli strumenti. Prima di raggiungere la liberazione, il Buddha deve essere stato un grande giocatore, se anche adesso, di fronte ai suoi discepoli, li ricorda uno per uno. Possiamo immaginarlo chiuso nel palazzo a giocare a scacchi, o a palla, o a fare la giravolta. Finché accade l’evento che pone fine all’innocenza ed ai giochi: la de-lusione. Ma un giocatore resta tale fino alla morte. Ci si può liberare da un vizio, ma il gusto che ha portato a cedere a quel vizio ci accompagna. Ci si può liberare dal vizio del gioco, ma lo spirito del giocatore - di chi ha bisogno di un avversario, di pensare una strategia vincente, di azzardare una mossa dopo l’altra, di vincere o perdere – è irriformabile. I giochi che il Tathagata elenca con tanta precisione ai suoi discepoli sono stati sostituiti da un gioco molto più impegnativo, e perciò infinitamente più eccitante. Un gioco terribile, che rende terribile colui che ha vinto; poiché non c’è vittoria senza astuzia e senza audacia. In questo senso il _Dhammapada_{10} afferma di colui che si è liberato:
 
 
-_Asaddho akatañño ca sandhichedo ca ya naro_
+_Asaddho akatañño ca sandhichedo ca ya naro_  
 _Hatavakaso vantaso sa ve uttamaporiso._ 
 
 Non ha fede, è ingrato,  
