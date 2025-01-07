@@ -15,3 +15,4 @@ Antonio Vigilante, _La luna nell'acqua. Una mappa per perdersi nel Dharma del Bu
 [Il vaso magico](il-vaso-magico.md)  
 [Il carro](il-carro.md)  
 [Il gioco](il-gioco.md)  
+[Al mercato, con le mani aperte](al-mercato.md)  
