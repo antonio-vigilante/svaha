@@ -19,5 +19,5 @@ Antonio Vigilante, _La luna nell'acqua. Una mappa per perdersi nel Dharma del Bu
 [Le viscere del Buddha](le-viscere-del-Buddha.md)  
 [Lo scassinatore](lo-scassinatore.md)  
 [Quale vittoria?](quale-vittoria.md)  
-[Il Maestro e Margherita](il-Maestro-e-Margherita.md) 
-[Io sono Dio][io-sono-Dio.md] 
+[Il Maestro e Margherita](il-Maestro-e-Margherita.md)  
+[Io sono Dio](io-sono-Dio.md) 
