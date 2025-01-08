@@ -13,6 +13,6 @@ Il suo ultimo discorso esprime il suo amore e la sua fiducia nei suoi discepoli.
 
 Una settimana dopo la morte del Buddha alcuni monaci, guidati da Mahakassapa, incontrano un seguace della scuola degli ajivika. Ha con sé un fiore dell’albero del corallo. Racconta di averlo raccolto dove è morto il Buddha. Al racconto, i monaci più fragili scoppiano a piangere, mentre quelli più saldi nella dottrina ripetono a sé stessi e agli altri che tutto è impermanente e destinato a morire. Si distingue dagli altri un certo Subhadda, che si rivolge ai monaci dicendo loro: “Non lamentatevi, amici, ci siamo finalmente liberati del fastidioso grande asceta che diceva ‘non va bene fare questo, non va bene fare quello’; ora possiamo fare quello che vogliamo”.{8}
 
-Il Buddha si sbagliava.
+
 
  
