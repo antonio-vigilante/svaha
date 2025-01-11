@@ -28,3 +28,5 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [Miracoli](miracoli.md)   
 [La zattera](la-zattera.md)   
 [Qui](qui.md)  
+[Il silenzio](il-silenzio.md)  
+[Verificare da sé](verificare.md)  
