@@ -24,3 +24,4 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [Io sono Dio](io-sono-Dio.md)  
 [Fermarsi](fermarsi.md)  
 [L'uomo dalla collana fatta di dita](angulimala.md)  
+[Mendicanti](mendicanti.md)
