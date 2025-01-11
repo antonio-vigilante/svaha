@@ -23,3 +23,4 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [Il Maestro e Margherita](il-Maestro-e-Margherita.md)  
 [Io sono Dio](io-sono-Dio.md)  
 [Fermarsi](fermarsi.md)  
+[L'uomo dalla collana fatta di dita](angulimala.md)  
