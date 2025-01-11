@@ -26,5 +26,5 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [L'uomo dalla collana fatta di dita](angulimala.md)  
 [Mendicanti](mendicanti.md)  
 [Miracoli](miracoli.md)   
-[La zattera](la-zattera.md) 
+[La zattera](la-zattera.md)   
 [Qui](qui.md)  
