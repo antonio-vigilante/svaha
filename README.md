@@ -10,6 +10,8 @@ Il Buddha diceva di non essere un maestro “dal pugno chiuso”, di quelli che 
 
 Puoi leggere il libro [online su questo sito](luna/index.md). Se desideri una copia cartacea, o acquistare una copia digitale, puoi acquistarla su [IBS](https://www.ibs.it/luna-nell-acqua-mappa-per-ebook-antonio-vigilante/e/9788834160022?srsltid=AfmBOooLQpq1bWzg0qmlSE0_IwIwEfchNJvGjeRlUeg6e-StvEn6hzux), su [Mondadori Store](https://www.mondadoristore.it/luna-nell-acqua-mappa-Antonio-Vigilante/eai978883416083/), su [Unilibro](https://www.unilibro.it/libro/vigilante-antonio/luna-nell-acqua-mappa-perdersi-dharma-buddha/9788834160831) o su [Amazon](https://www.amazon.it/luna-nellacqua-perdersi-Dharma-Buddha/dp/8834160835).
 
-### Dintorni 
+### Pariyesana 
+
+Appunti, analisi, traduzioni, discussioni intorno al Dharma del Buddha.
 
 [Dhammapada](traduzioni/dhammapada/index.md)
