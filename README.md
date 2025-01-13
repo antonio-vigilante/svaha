@@ -14,4 +14,4 @@ Puoi leggere il libro [online su questo sito](luna/index.md). Se desideri una co
 
 Appunti, analisi, traduzioni, discussioni intorno al Dharma del Buddha.
 
-[Dhammapada](traduzioni/dhammapada/index.md)
+[Il mondo della mente. Dhammapada 1](dhammapada-1.md)
