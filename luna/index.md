@@ -37,5 +37,7 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [Il karman](il-karman.md)  
 [L'intenzione](intenzione.md)  
 [Semi e frutti](semi-e-frutti.md)  
+[La ruota](la-ruota.md)  
+
 
 
