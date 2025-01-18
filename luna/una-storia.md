@@ -22,5 +22,5 @@ Gran parte della storia che ho appena raccontato è mitica. Non mi riferisco sol
 
 È una storia falsa, ma anche vera. È la storia di Siddhattha, comunque siano andate le cose nella sua infanzia e nella sua giovinezza. Ed è anche la storia di me che scrivo e di te che leggi.
 
-[Indice](index.md) [<<](nota.md) [<<](il-male.md)
+[Indice](index.md) [<<](nota.md) [>>](il-male.md)
 
