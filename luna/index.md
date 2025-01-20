@@ -40,6 +40,6 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [L'intenzione](intenzione.md)  
 [Semi e frutti](semi-e-frutti.md)  
 [La ruota](la-ruota.md)  
-
+[La bambola rotta](la-bambola-rotta.md)  
 
 
