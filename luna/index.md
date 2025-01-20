@@ -3,9 +3,8 @@
 Antonio Vigilante, _La luna nell'acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.  
 Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro integrale.
 
-<p align="center">
-<img src="cover.png" width="500" align="center"/>
-</p>  
+<img src="cover.png" width="600" align="center"/>
+ 
 
 ## Indice
 
