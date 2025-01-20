@@ -1,6 +1,8 @@
 # La luce della luna
 
-[Indice](index.md) | [Precedente](la-bambola-rotta.md) | [Successivo](la-lotta.md) 
+Antonio Vigilante, _La luna nell'acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente](la-bambola-rotta.md) | [Successivo](la-lotta.md)
 
 Analizziamo ancora un po’ la ruota dell’esistenza. A guardarla meglio si nota una stranezza. È una ruota che non gira, anzi che non può girare, perché è tenuta ferma, bloccata, ghermita dal dio della morte. Ti ho già detto che la parola _dukkha_, che indica la sofferenza, il disagio da cui parte la riflessione del Buddha, rimanda all’idea di una ruota che è uscita fuori dal proprio asse. È per questo che la ruota della nostra esistenza è una ruota bloccata. Desideriamo, amiamo, odiamo, ci facciamo del male, lavoriamo, guadagniamo soldi, li perdiamo, ci ammaliamo, eppure in questo continuo cambiamento non c’è nessun vero movimento. Procediamo a volte con sicurezza, a volte con affanno, ma siamo sempre allo stesso punto, esattamente come il povero – povero pur nella sua malvagità: povero per la sua malvagità – Angulimala, che per quanto corra non riesce a raggiungere il Buddha, che invece è fermo. Ecco: viviamo vite in continuo movimento, senza tuttavia muoverci davvero. E la liberazione è fermarsi, cominciando a camminare davvero.
 
