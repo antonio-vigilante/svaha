@@ -41,5 +41,5 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [La luce della luna](la-luce-della-luna.md)  
 [La lotta](la-lotta.md)  
 [Quale rifugio?](quale-rifugio.md)  
-
+[Baruch](baruch.md)  
 
