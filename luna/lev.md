@@ -1,5 +1,8 @@
 # Lev
 
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente](uriel.md) |	[Successivo](la-visione.md)
 
 Proseguo la mia divagazione; ti prometto che poi passo subito a parlarti del sentiero. Voglio dirti di un altro scomunicato, questa volta non ebreo, ma cristiano ortodosso. Mi è venuto in mente mentre scrivevo di Spinoza che lavora come intagliatore di lenti. Perché anche lui, benché fosse uno dei maggiori scrittori di ogni tempo, famosissimo e grandemente onorato, si dedicava a lavori manuali, quelli che una antica tradizione calunnia come antispirituali, inadatti ad un uomo colto. Lui riteneva, invece, che fosse un preciso dovere di ognuno dedicarsi anche a lavori manuali. Nella società in cui viviamo, pensava, alcune persone hanno tempo e risorse per dedicarsi allo studio, mentre altre persone sono condannate al lavoro manuale. È una situazione di evidente ingiustizia, che può essere superata solo se tutti si incaricano anche del lavoro manuale, consentendo agli altri, alleggeriti dal peso, di scoprire la vita culturale e spirituale.
 
