@@ -1,5 +1,9 @@
 # La felicità
 
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente]() | [Successivo]()
+
 Qualche pagina fa ho parlato di felicità. Ho detto che il paradiso è la condizione in cui siamo capaci di felicità. Rileggendomi provo qualche imbarazzo. È l’imbarazzo che sempre mi suscita l’uso della parola felicità, come l’uso di altre parole – ad esempio, libertà – cui pure non riesco a rinunciare, e che anzi considero importanti.
 
 Molte persone ritengono che la felicità sia il vero scopo della vita. Un tempo questa felicità veniva pensata come un obiettivo sociale: si desiderava, si lottava per una società in cui nessuno sarebbe stato infelice e ad ognuno sarebbe stata aperta la porta della felicità. I testi che ne parlano, scritti per lo più nell’Ottocento, hanno un fascino particolare. Si avverte lo slancio di una umanità che sta dominando sempre più la natura con la forza della ragione e della scienza e sente di poter fare lo stesso con la società. È il periodo in cui nasce la sociologia. Il fondatore, August Comte, assicura che grazie alla nuova scienza della società sarà possibile realizzare un sistema sociale perfetto. Altri, come gli anarchici, pensano che questo non sarà possibile senza una lotta che metta fine allo sfruttamento dell’uomo sull’uomo e liberi la classe proletaria dall’oppressione della borghesia. La società è in fermento ma tutti sono ottimisti riguardo al futuro.

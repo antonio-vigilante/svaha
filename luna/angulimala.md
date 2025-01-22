@@ -1,5 +1,9 @@
 # Angulimala
 
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente]() | [Successivo]()
+
 Riguardo al fermarsi devo raccontarti una storia. È una storia che certamente non è vera, ma non è, credo, nemmeno falsa, e questa, di non essere né vere né false, mi sembra essere una caratteristica particolare delle storie buddhiste. Ragioneremo poi della verità nel buddhismo. Ascolta intanto. Una volta il Buddha soggiornava nel boschetto di Jeta. Nella zona c’era un terribile brigante che si chiamava Angulimala. La sua crudeltà era scolpita nel suo stesso nome, perché Angulimala in lingua pali significa “collana di dita”. Le dita erano quelle dei malcapitati che uccideva e che a quanto pare usava come trofeo, mettendosele al collo. 
 Un mattino il Buddha, dopo aver fatto il suo giro per chiedere l’elemosina, mangia qualcosa, poi prende ciotola e mantello e si incammina verso Angulimala. I pastori lo vedono e cercano di avvisarlo. Via di la! Lì c’è Angulimala! Il Buddha procede tranquillo. In silenzio.
 

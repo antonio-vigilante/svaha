@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "f390278d659c89ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a3742eb3d252432",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d890b3c2ab48bbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "angulimala.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "angulimala"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2be218c948c5bb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2b11e6357fb9982",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d378fcc4a3f078b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "184ebd14e6a26515",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "0e527e71701d97e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76f5fda78e94dc78",
+    "type": "split",
+    "children": [
+      {
+        "id": "57e2bec2c71d2b91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dcd4d11af609704",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "angulimala.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a angulimala"
+            }
+          },
+          {
+            "id": "dabd036e58ffad4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "angulimala.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da angulimala"
+            }
+          },
+          {
+            "id": "9cb1f5430060acaf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "d44a142d8964cddb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "angulimala.md"
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di angulimala"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "7d890b3c2ab48bbe",
+  "lastOpenFiles": [
+    "baruch.md",
+    "felicita.md",
+    "il-karman.md",
+    "il-fuoco.md",
+    "il-disincanto.md",
+    "tarkus.md",
+    "semi-e-frutti.md",
+    "rinascere.md",
+    "lo-scassinatore.md",
+    "intenzione.md",
+    "il-vaso-magico.md",
+    "il-male.md",
+    "havel-havalim.md",
+    "verificare.md",
+    "la-ruota.md"
+  ]
+}
