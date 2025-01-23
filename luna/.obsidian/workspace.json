@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "intenzione.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "intenzione"
             }
           }
         ],
@@ -208,9 +208,12 @@
   },
   "active": "7c426e114c7da068",
   "lastOpenFiles": [
-    "che-fare.md",
-    "nonmenzogna.md",
     "index.md",
+    "dimore.md",
+    "thay.md",
+    "che-fare.md",
+    "il-Maestro-e-Margherita.md",
+    "nonmenzogna.md",
     "vipere-e-cacciatori-di-avvoltoi.md",
     "veleno-o-farmaco.md",
     "la-cura-dei-pensieri.md",
@@ -230,9 +233,6 @@
     "lo-scassinatore.md",
     "intenzione.md",
     "il-vaso-magico.md",
-    "il-male.md",
-    "havel-havalim.md",
-    "verificare.md",
-    "la-ruota.md"
+    "il-male.md"
   ]
 }

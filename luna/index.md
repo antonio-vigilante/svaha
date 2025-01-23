@@ -51,8 +51,8 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [Vipere e cacciatori di avvoltoi](vipere-e-cacciatori-di-avvoltoi.md)  
 [Nonmenzogna](nonmenzogna.md)  
 [Che fare?](che-fare.md)  
-Thay  
-Dimore  
+[Thay](thay.md)    
+[Dimore](dimore.md)    
 Tecniche  
 Il limite del mondo  
 Guardare a fondo  
