@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "7c426e114c7da068",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -234,8 +248,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "433c3d615f37408f",
+  "active": "7c426e114c7da068",
   "lastOpenFiles": [
+    "che-fare.md",
+    "nonmenzogna.md",
+    "index.md",
     "vipere-e-cacciatori-di-avvoltoi.md",
     "veleno-o-farmaco.md",
     "la-cura-dei-pensieri.md",
