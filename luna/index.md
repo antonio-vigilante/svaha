@@ -44,3 +44,8 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [Baruch](baruch.md)  
 [Uriel](uriel.md)  
 [Lev](lev.md)   
+[La visione][la-visione.md]  
+[La cura dei pensieri][la-cura-dei-pensieri-md]  
+[Un cuore più grande](un-cuore-piu-grande.md)  
+[Veleno o farmaco](veleno-o-farmaco.md)  
+[Vipere e cacciatori di avvoltoi](vipere-e-cacciatori-di-avvoltoi.md)  

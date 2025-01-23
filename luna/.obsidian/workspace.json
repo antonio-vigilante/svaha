@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vipere-e-cacciatori-di-avvoltoi.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "vipere-e-cacciatori-di-avvoltoi"
+              "title": "index"
             }
           }
         ],
@@ -236,8 +236,8 @@
   },
   "active": "433c3d615f37408f",
   "lastOpenFiles": [
-    "veleno-o-farmaco.md",
     "vipere-e-cacciatori-di-avvoltoi.md",
+    "veleno-o-farmaco.md",
     "la-cura-dei-pensieri.md",
     "un-cuore-piu-grande.md",
     "la-lotta.md",
