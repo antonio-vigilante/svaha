@@ -13,15 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "angulimala.md",
+                "file": "la-lotta.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "angulimala"
+              "title": "la-lotta"
+            }
+          },
+          {
+            "id": "f2d48bbfdc574286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "la-visione.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "la-visione"
+            }
+          },
+          {
+            "id": "ec452c02c84e38f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "la-cura-dei-pensieri.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "la-cura-dei-pensieri"
+            }
+          },
+          {
+            "id": "01969379c16ac3e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "un-cuore-piu-grande.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "un-cuore-piu-grande"
+            }
+          },
+          {
+            "id": "0235afb9a252f7a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "veleno-o-farmaco.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "veleno-o-farmaco"
+            }
+          },
+          {
+            "id": "433c3d615f37408f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vipere-e-cacciatori-di-avvoltoi.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "vipere-e-cacciatori-di-avvoltoi"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -93,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "angulimala.md",
+                "file": "la-lotta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a angulimala"
+              "title": "Riferimenti a la-lotta"
             }
           },
           {
@@ -112,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "angulimala.md",
+                "file": "la-lotta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da angulimala"
+              "title": "Collegamenti in uscita da la-lotta"
             }
           },
           {
@@ -139,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "angulimala.md"
+                "file": "la-lotta.md"
               },
               "icon": "lucide-list",
-              "title": "Struttura di angulimala"
+              "title": "Struttura di la-lotta"
             }
           }
         ]
@@ -163,8 +234,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7d890b3c2ab48bbe",
+  "active": "433c3d615f37408f",
   "lastOpenFiles": [
+    "veleno-o-farmaco.md",
+    "vipere-e-cacciatori-di-avvoltoi.md",
+    "la-cura-dei-pensieri.md",
+    "un-cuore-piu-grande.md",
+    "la-lotta.md",
+    "la-visione.md",
+    "la-zattera.md",
+    "angulimala.md",
     "baruch.md",
     "felicita.md",
     "il-karman.md",
