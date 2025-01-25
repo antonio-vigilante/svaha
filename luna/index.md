@@ -53,9 +53,9 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [Che fare?](che-fare.md)  
 [Thay](thay.md)    
 [Dimore](dimore.md)    
-Tecniche  
-Il limite del mondo  
-Guardare a fondo  
+[Tecniche](tecniche.md)    
+[Il limite del mondo](il-limite-del-mondo.md)  
+[Guardare a fondo](guardare-a-fondo.md)  
 Abbandonarsi  
 Samatha  
 Quello che non si può dire  

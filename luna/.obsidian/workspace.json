@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "intenzione"
             }
+          },
+          {
+            "id": "be4f51ad142168cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -206,8 +220,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7c426e114c7da068",
+  "active": "6d378fcc4a3f078b",
   "lastOpenFiles": [
+    "il-limite-del-mondo.md",
+    "tecniche.md",
+    "la-visione.md",
+    "intenzione.md",
     "index.md",
     "dimore.md",
     "thay.md",
@@ -219,7 +237,6 @@
     "la-cura-dei-pensieri.md",
     "un-cuore-piu-grande.md",
     "la-lotta.md",
-    "la-visione.md",
     "la-zattera.md",
     "angulimala.md",
     "baruch.md",
@@ -230,9 +247,6 @@
     "tarkus.md",
     "semi-e-frutti.md",
     "rinascere.md",
-    "lo-scassinatore.md",
-    "intenzione.md",
-    "il-vaso-magico.md",
-    "il-male.md"
+    "lo-scassinatore.md"
   ]
 }
