@@ -57,7 +57,7 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [Il limite del mondo](il-limite-del-mondo.md)  
 [Guardare a fondo](guardare-a-fondo.md)  
 [Abbandonarsi](abbandonarsi.md)  
-Samatha  
+[Samatha](samatha.md)    
 Quello che non si può dire  
 Dopo  
 Pesi  
