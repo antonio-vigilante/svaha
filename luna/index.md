@@ -56,7 +56,7 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [Tecniche](tecniche.md)    
 [Il limite del mondo](il-limite-del-mondo.md)  
 [Guardare a fondo](guardare-a-fondo.md)  
-Abbandonarsi  
+[Abbandonarsi](abbandonarsi.md)  
 Samatha  
 Quello che non si può dire  
 Dopo  
