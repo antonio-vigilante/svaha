@@ -220,11 +220,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "be4f51ad142168cf",
+  "active": "6d378fcc4a3f078b",
   "lastOpenFiles": [
+    "abbandonarsi.md",
     "guardare-a-fondo.md",
-    "il-limite-del-mondo.md",
     "index.md",
+    "il-limite-del-mondo.md",
     "tecniche.md",
     "la-visione.md",
     "intenzione.md",
@@ -246,7 +247,6 @@
     "il-fuoco.md",
     "il-disincanto.md",
     "tarkus.md",
-    "semi-e-frutti.md",
-    "rinascere.md"
+    "semi-e-frutti.md"
   ]
 }
