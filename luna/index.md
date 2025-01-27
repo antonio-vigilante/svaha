@@ -60,7 +60,7 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [Samatha](samatha.md)    
 [Quello che non si può dire](quello-che-non-si-puo-dire.md)  
 [Dopo](dopo.md)  
-Pesi  
+[Pesi](pesi.md)    
 Ananda  
 Lignaggio  
 Il Canone  
