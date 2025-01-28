@@ -61,8 +61,8 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [Quello che non si può dire](quello-che-non-si-puo-dire.md)  
 [Dopo](dopo.md)  
 [Pesi](pesi.md)    
-Ananda  
-Lignaggio  
+[Ananda](ananda.md)    
+[Lignaggio](lignaggio.md)    
 Il Canone  
 Veicoli  
 Ashoka  

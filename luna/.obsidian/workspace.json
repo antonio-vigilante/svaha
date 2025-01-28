@@ -50,20 +50,6 @@
             }
           },
           {
-            "id": "7c426e114c7da068",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intenzione.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "intenzione"
-            }
-          },
-          {
             "id": "be4f51ad142168cf",
             "type": "leaf",
             "state": {
@@ -78,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,9 +208,12 @@
   },
   "active": "be4f51ad142168cf",
   "lastOpenFiles": [
+    "lignaggio.md",
+    "index.md",
+    "intenzione.md",
+    "ananda.md",
     "pesi.md",
     "dopo.md",
-    "index.md",
     "quello-che-non-si-puo-dire.md",
     "samatha.md",
     "guardare-a-fondo.md",
@@ -232,7 +221,6 @@
     "il-limite-del-mondo.md",
     "tecniche.md",
     "la-visione.md",
-    "intenzione.md",
     "dimore.md",
     "thay.md",
     "che-fare.md",
@@ -245,8 +233,6 @@
     "la-lotta.md",
     "la-zattera.md",
     "angulimala.md",
-    "baruch.md",
-    "felicita.md",
-    "il-karman.md"
+    "baruch.md"
   ]
 }
