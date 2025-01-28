@@ -63,7 +63,7 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [Pesi](pesi.md)    
 [Ananda](ananda.md)    
 [Lignaggio](lignaggio.md)    
-Il Canone  
+[Il Canone](il-canone.md)    
 Veicoli  
 Ashoka  
 La vertigine   
