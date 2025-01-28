@@ -64,8 +64,8 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [Ananda](ananda.md)    
 [Lignaggio](lignaggio.md)    
 [Il Canone](il-canone.md)    
-Veicoli  
-Ashoka  
+[Veicoli](veicoli,md)   
+[Ashoka](ashoka.md)    
 La vertigine   
 La pietra delle meraviglie  
 Il cuore  
