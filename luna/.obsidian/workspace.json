@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "ashoka.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "ashoka"
             }
           },
           {
@@ -194,9 +194,10 @@
   },
   "active": "433c3d615f37408f",
   "lastOpenFiles": [
+    "la-pietra-delle-meraviglie 1.md",
     "la-pietra-delle-meraviglie.md",
-    "la-vertigine.md",
     "index.md",
+    "la-vertigine.md",
     "ashoka.md",
     "veicoli.md",
     "il-canone.md",
@@ -218,7 +219,6 @@
     "il-Maestro-e-Margherita.md",
     "nonmenzogna.md",
     "vipere-e-cacciatori-di-avvoltoi.md",
-    "veleno-o-farmaco.md",
-    "la-cura-dei-pensieri.md"
+    "veleno-o-farmaco.md"
   ]
 }
