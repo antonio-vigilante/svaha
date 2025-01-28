@@ -66,7 +66,7 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [Il Canone](il-canone.md)    
 [Veicoli](veicoli,md)   
 [Ashoka](ashoka.md)    
-La vertigine   
+[La vertigine](la-vertigine.md)     
 La pietra delle meraviglie  
 Il cuore  
 Intermezzo  
