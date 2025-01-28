@@ -67,7 +67,7 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [Veicoli](veicoli,md)   
 [Ashoka](ashoka.md)    
 [La vertigine](la-vertigine.md)     
-La pietra delle meraviglie  
+[La pietra delle meraviglie](la-pietra-delle-meraviglie.md)    
 Il cuore  
 Intermezzo  
 Le cose né sono né non sono  
