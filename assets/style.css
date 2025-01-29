@@ -72,3 +72,12 @@ img {
 .button.purple:hover {
   background-color: #5936a2;
 }
+
+/* Bottoni rossi */
+.button.red {
+  background-color: red;
+}
+.button.purple:hover {
+  background-color: #red;
+}
+
