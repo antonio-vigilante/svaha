@@ -6,7 +6,7 @@ Questa pagina è dedicata al primo dei due libri. Contiene il testo integrale de
 
 ### La luna nell'acqua
 
-<a href="https://antonio-vigilante.github.io/svaha/luna/index.html" class="button orange">Leggi online</a>   <a href="https://antonio-vigilante.github.io/svaha/download.html" class="button green">Download</a>   <a href="https://antonio-vigilante.github.io/svaha/acquista.html)" class="button purple">Acquista</a>
+<a href="https://antonio-vigilante.github.io/svaha/luna/index.html" class="button orange">Leggi online</a>   <a href="https://antonio-vigilante.github.io/svaha/download.html" class="button green">Download</a>   <a href="https://antonio-vigilante.github.io/svaha/acquista.html" class="button purple">Acquista</a>
 
 ### Pariyesana 
 
