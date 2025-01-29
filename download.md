@@ -1,1 +1,3 @@
+<link rel="stylesheet" href="./assets/style.css">
+
 <a href="https://antonio-vigilante.github.io/svaha/luna/vigilante-luna.epub" class="button green">ePub</a>   <a href="https://antonio-vigilante.github.io/svaha/luna/vigilante-lune.pdf" class="button red">PDF</a>
