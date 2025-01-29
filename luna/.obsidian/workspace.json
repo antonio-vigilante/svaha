@@ -22,35 +22,49 @@
             }
           },
           {
-            "id": "433c3d615f37408f",
+            "id": "cd92367eb919b4bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ashoka.md",
+                "file": "le-cose-ne-sono-ne-non-sono.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ashoka"
+              "title": "le-cose-ne-sono-ne-non-sono"
             }
           },
           {
-            "id": "be4f51ad142168cf",
+            "id": "ba6243c49e3840ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "il-canone.md",
+                "file": "nagarjuna.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "il-canone"
+              "title": "nagarjuna"
+            }
+          },
+          {
+            "id": "75acef89dd7315f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,13 +206,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "433c3d615f37408f",
+  "active": "ba6243c49e3840ec",
   "lastOpenFiles": [
-    "la-pietra-delle-meraviglie 1.md",
-    "la-pietra-delle-meraviglie.md",
     "index.md",
-    "la-vertigine.md",
+    "nagarjuna.md",
+    "le-cose-ne-sono-ne-non-sono.md",
+    "intermezzo.md",
+    "il-cuore.md",
+    "la-pietra-delle-meraviglie.md",
+    "la-lotta.md",
     "ashoka.md",
+    "la-vertigine.md",
     "veicoli.md",
     "il-canone.md",
     "lignaggio.md",
@@ -215,10 +233,6 @@
     "la-visione.md",
     "dimore.md",
     "thay.md",
-    "che-fare.md",
-    "il-Maestro-e-Margherita.md",
-    "nonmenzogna.md",
-    "vipere-e-cacciatori-di-avvoltoi.md",
-    "veleno-o-farmaco.md"
+    "che-fare.md"
   ]
 }

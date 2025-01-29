@@ -68,9 +68,9 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [Ashoka](ashoka.md)    
 [La vertigine](la-vertigine.md)     
 [La pietra delle meraviglie](la-pietra-delle-meraviglie.md)    
-Il cuore  
-Intermezzo  
-Le cose né sono né non sono  
+[Il cuore](il-cuore.md)    
+[Intermezzo](intermezzo.md)  
+[Le cose né sono né non sono](le-cose-ne-sono-ne-non-sono.md)  
 Nagarjuna  
 L'assenza  
 Sterco secco  
