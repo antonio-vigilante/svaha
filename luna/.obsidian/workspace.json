@@ -36,21 +36,21 @@
             }
           },
           {
-            "id": "ba6243c49e3840ec",
+            "id": "75acef89dd7315f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "l-assenza.md",
+                "file": "il-dharma-d-occidente.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "l-assenza"
+              "title": "il-dharma-d-occidente"
             }
           },
           {
-            "id": "75acef89dd7315f2",
+            "id": "b460735654f54a9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -206,10 +206,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "75acef89dd7315f2",
+  "active": "b460735654f54a9d",
   "lastOpenFiles": [
-    "l-assenza.md",
+    "il-dharma-d-occidente.md",
     "index.md",
+    "una-notte-insonne.md",
+    "sterco-secco.md",
+    "l-assenza.md",
     "nagarjuna.md",
     "le-cose-ne-sono-ne-non-sono.md",
     "intermezzo.md",
@@ -230,9 +233,6 @@
     "guardare-a-fondo.md",
     "abbandonarsi.md",
     "il-limite-del-mondo.md",
-    "tecniche.md",
-    "la-visione.md",
-    "dimore.md",
-    "thay.md"
+    "tecniche.md"
   ]
 }

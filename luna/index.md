@@ -73,9 +73,9 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [Le cose né sono né non sono](le-cose-ne-sono-ne-non-sono.md)  
 [Nagarjuna](nagarjuna.md)    
 [L'assenza](l-assenza.md)    
-Sterco secco  
-Una notte insonne  
-Il Dharma d'occidente  
+[Sterco secco](sterco-secco.md)    
+[Una notte insonne](una-notte-insonne.md)    
+[Il Dharma d'occidente](il-dharma-d-occidente.md)    
 Io-mio  
 Interessere  
 Oltreio  
