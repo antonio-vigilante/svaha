@@ -4,11 +4,11 @@ Ho cominciato a occuparmi del pensiero indiano da adolescente. Determinante è s
 
 Questa pagina è dedicata al primo dei due libri. Contiene il testo integrale del libro, che è possibile anche scaricare in formato elettronico, e diverse note di approfondimento.
 
-## La luna nell'acqua
+### La luna nell'acqua
 
-<a href="https://antonio-vigilante.github.io/luna/index.md" class="button orange">Leggi online</a>   <a href="" class="button green">Download</a>   <a href="https://antonio-vigilant" class="button purple">Acquista</a>
+<a href="https://antonio-vigilante.github.io/luna/index.html" class="button orange">Leggi online</a>   <a href="https://antonio-vigilante.github.io/luna/download.html" class="button green">Download</a>   <a href="https://antonio-vigilante.github.io/luna/acquista.html)" class="button purple">Acquista</a>
 
-## Pariyesana 
+### Pariyesana 
 
 Appunti, analisi, traduzioni, discussioni intorno al Dharma del Buddha.
 
