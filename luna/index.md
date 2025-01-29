@@ -7,7 +7,7 @@ Il Buddha diceva di non essere un maestro “dal pugno chiuso”, di quelli che 
 ## Indice
 
 [Copertina](copertina.md)  
-[COlophon](colophon.md)  
+[Colophon](colophon.md)  
 [Introduzione](introduzione.md)  
 [Nota](nota.md)    
 [Una storia](una-storia.md)    
