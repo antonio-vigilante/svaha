@@ -76,8 +76,8 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [Sterco secco](sterco-secco.md)    
 [Una notte insonne](una-notte-insonne.md)    
 [Il Dharma d'occidente](il-dharma-d-occidente.md)    
-Io-mio  
-Interessere  
+[Io-mio](io-mio.md)  
+[Interessere](interessere.md)    
 Oltreio  
 Gabbie  
 Bibliografia ragionata  

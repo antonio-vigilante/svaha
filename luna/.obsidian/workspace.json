@@ -55,6 +55,34 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "io-mio.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "io-mio"
+            }
+          },
+          {
+            "id": "b818a6cec2d699bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interessere.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "interessere"
+            }
+          },
+          {
+            "id": "b018c38073a0e19e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "index.md",
                 "mode": "source",
                 "source": true
@@ -64,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -206,10 +234,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b460735654f54a9d",
+  "active": "b018c38073a0e19e",
   "lastOpenFiles": [
-    "il-dharma-d-occidente.md",
+    "interessere.md",
+    "io-mio.md",
     "index.md",
+    "il-dharma-d-occidente.md",
     "una-notte-insonne.md",
     "sterco-secco.md",
     "l-assenza.md",
@@ -231,8 +261,6 @@
     "quello-che-non-si-puo-dire.md",
     "samatha.md",
     "guardare-a-fondo.md",
-    "abbandonarsi.md",
-    "il-limite-del-mondo.md",
-    "tecniche.md"
+    "abbandonarsi.md"
   ]
 }
