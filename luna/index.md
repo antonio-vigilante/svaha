@@ -71,8 +71,8 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [Il cuore](il-cuore.md)    
 [Intermezzo](intermezzo.md)  
 [Le cose né sono né non sono](le-cose-ne-sono-ne-non-sono.md)  
-Nagarjuna  
-L'assenza  
+[Nagarjuna](nagarjuna.md)    
+[L'assenza](l-assenza.md)    
 Sterco secco  
 Una notte insonne  
 Il Dharma d'occidente  

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nagarjuna.md",
+                "file": "l-assenza.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "nagarjuna"
+              "title": "l-assenza"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,8 +206,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ba6243c49e3840ec",
+  "active": "75acef89dd7315f2",
   "lastOpenFiles": [
+    "l-assenza.md",
     "index.md",
     "nagarjuna.md",
     "le-cose-ne-sono-ne-non-sono.md",
@@ -232,7 +233,6 @@
     "tecniche.md",
     "la-visione.md",
     "dimore.md",
-    "thay.md",
-    "che-fare.md"
+    "thay.md"
   ]
 }
