@@ -78,6 +78,6 @@ Il caricamento del libro è incompleto. Ripassa tra qualche giorno per il libro 
 [Il Dharma d'occidente](il-dharma-d-occidente.md)    
 [Io-mio](io-mio.md)  
 [Interessere](interessere.md)    
-Oltreio  
+[Oltreio](oltreio.md)    
 Gabbie  
 Bibliografia ragionata  
