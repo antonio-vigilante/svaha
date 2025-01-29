@@ -1,0 +1,74 @@
+img {
+  border-radius: 10px; /* Arrotonda gli angoli con un raggio di 10px */
+  border: 0px solid #ccc; /* Aggiunge un bordo intorno all'immagine */
+}
+
+.callout {
+  border-left: 4px solid #007BFF;
+  background-color: #f0f8ff;
+  padding: 10px;
+  margin: 15px 0;
+  border-radius: 5px;
+}
+
+.callout.warning {
+  border-left-color: #FFC107;
+  background-color: #FFF8E1;
+}
+
+.callout.danger {
+  border-left-color: #DC3545;
+  background-color: #F8D7DA;
+}
+
+.button {
+  display: inline-block;
+  padding: 3px 20px;
+  font-size: 16px;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  border: none;
+  transition: background-color 0.3s;
+  cursor: pointer;
+}
+
+@media (max-width: 480px) {
+  .button {
+    margin-bottom: 5px; /* Più spazio per schermi molto piccoli */
+    margin-right: 5px;
+  }
+}
+
+/* Bottoni Arancio */
+.button.orange {
+  background-color: #FFA500;
+}
+.button.orange:hover {
+  background-color: #e59400;
+}
+
+/* Bottoni Verde */
+.button.green {
+  background-color: #28a745;
+}
+.button.green:hover {
+  background-color: #218838;
+}
+
+/* Bottoni Blu */
+.button.blue {
+  background-color: #007bff;
+}
+.button.blue:hover {
+  background-color: #0056b3;
+}
+
+/* Bottoni Viola */
+.button.purple {
+  background-color: #6f42c1;
+}
+.button.purple:hover {
+  background-color: #5936a2;
+}
