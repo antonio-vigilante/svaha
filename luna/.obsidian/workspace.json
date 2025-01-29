@@ -234,13 +234,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b018c38073a0e19e",
+  "active": "6d378fcc4a3f078b",
   "lastOpenFiles": [
+    "bibliografia-ragionata.md",
+    "gabbie.md",
+    "oltreio.md",
+    "index.md",
     "interessere.md",
     "intermezzo.md",
-    "oltreio.md",
     "introduzione.md",
-    "index.md",
     "io-mio.md",
     "il-dharma-d-occidente.md",
     "una-notte-insonne.md",
@@ -259,8 +261,6 @@
     "intenzione.md",
     "ananda.md",
     "pesi.md",
-    "dopo.md",
-    "quello-che-non-si-puo-dire.md",
-    "samatha.md"
+    "dopo.md"
   ]
 }
