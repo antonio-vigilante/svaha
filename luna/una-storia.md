@@ -1,5 +1,9 @@
 # Una storia
 
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente](una-storia.md) | [Successivo](il-male.md)
+
 Il cristianesimo comincia con una storia: la storia di Gesù, detto il Cristo, il Figlio di Dio che è venuto sulla terra ed è morto sulla croce per la salvezza dell'umanità. Essere cristiani vuol dire credere in questa storia che va al di là della storia. Non è sufficiente credere nell'insegnamento di Gesù o mettere in pratica la sua morale. Occorre credere che Gesù è il Figlio di Dio e che è venuto per la nostra salvezza.
 
 Anche il buddhismo comincia con una storia. È la storia di Siddhattha Gotama, l'uomo che diventò il Buddha, ossia il Risvegliato. Ma c'è una differenza: il buddhismo prescinde dalla storia del Buddha. Se qualcuno dimostrasse che il Buddha non è mai esistito, per il buddhismo non cambierebbe molto. Un buddhista non crede nel Buddha, un buddhista cerca di mettere in pratica il suo insegnamento. O meglio: cerca di diventare un Buddha.

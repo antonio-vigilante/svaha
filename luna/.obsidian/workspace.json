@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "tarkus.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "tarkus"
             }
           }
         ],
@@ -234,15 +234,21 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6d378fcc4a3f078b",
+  "active": "b018c38073a0e19e",
   "lastOpenFiles": [
+    "psicoterapia.md",
+    "il-male.md",
+    "una-storia.md",
+    "nota.md",
+    "introduzione.md",
+    "interessere.md",
+    "il-vaso-magico.md",
+    "la-lotta.md",
+    "index.md",
     "bibliografia-ragionata.md",
     "gabbie.md",
     "oltreio.md",
-    "index.md",
-    "interessere.md",
     "intermezzo.md",
-    "introduzione.md",
     "io-mio.md",
     "il-dharma-d-occidente.md",
     "una-notte-insonne.md",
@@ -252,15 +258,9 @@
     "le-cose-ne-sono-ne-non-sono.md",
     "il-cuore.md",
     "la-pietra-delle-meraviglie.md",
-    "la-lotta.md",
     "ashoka.md",
     "la-vertigine.md",
     "veicoli.md",
-    "il-canone.md",
-    "lignaggio.md",
-    "intenzione.md",
-    "ananda.md",
-    "pesi.md",
-    "dopo.md"
+    "il-canone.md"
   ]
 }

@@ -1,5 +1,9 @@
 # Il male
 
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente](il-male.md) | [Successivo](psicoterapia.md)
+
 Il buddhismo, come probabilmente ogni religione, se non ogni filosofia, parte dal male. Il problema del male attraversa tutta la Bibbia, fin dal primo libro: la Genesi. Il mito di Adamo ed Eva cerca di rispondere a una delle domande più angosciose per un credente: se c'è Dio, perché esiste il male? Un'altra domanda che tormentava gli ebrei era: se c'è Dio, ed è buono e giusto, perché gli uomini buoni soffrono ed i malvagi vivono ricchi e felici?
 
 Il libro biblico che impone con forza, anzi con violenza questa domanda è quello di Giobbe. È la storia di un uomo giusto e timorato di Dio che all'improvviso si trova a perdere tutto: la moglie e i figli, le ricchezze, la salute. Si tratta di una brutta scommessa di Dio con Satana, ma lui non lo sa. Quello che sa è che lui, che teme Dio, si trova disperato, povero, solo: nudo. Gli amici vanno a trovarlo e cercano di convincerlo che se si trova in quello stato è perché ha fatto qualcosa di male: perché Dio è giusto e punisce chi fa il male. Giobbe protesta la sua innocenza, poi di fronte all'insistenza degli amici si lascia andare a potenti bestemmie. Dio è un essere terribile che, quando una tragedia fa morire molte persone, se la ride della disgrazia degli innocenti, e lascia le nazioni in mano ai malvagi (Giobbe 9, 23-24). La cosa interessante, o sconcertante, di questo libro è che alla fine Dio stesso interviene e finisce per dare ragione a Giobbe. Si scaglia contro uno degli amici di Giobbe: "La mia ira si è accesa contro di te ed i tuoi due amici, perché non avete detto di me cose rette, come ha fatto il mio servo Giobbe" (Giobbe 42, 7). Ma Giobbe ha detto cose che alle orecchie dei credenti suonano come bestemmie.
