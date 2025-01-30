@@ -3,6 +3,7 @@
 Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
 
 [Indice](index.md) | [Precedente](psicoterapia.md) | [Successivo](io-anzi-no.md)
+
 Un uomo è stato colpito da una freccia. Possiamo immaginarcelo in una foresta, preso in un'imboscata. A un certo punto ha sentito qualcosa muoversi dietro gli alberi, poi il sibilo della freccia: e in un attimo si è trovato a terra. Il nostro uomo ha due compagni con lui, forse sono gli unici sopravvissuti ad una battaglia: perché ce li figuriamo come soldati. E può essere che sia per questo che l'uomo, pur essendo ferito, chiede ai compagni: chi mi ha colpito? come si chiamava? che aspetto aveva? I compagni non possono saperlo, se non abbandonandolo e mettendosi ad inseguire l'assalitore.
 
 La storia dell'uomo ferito dalla freccia è una delle storie più efficaci raccontate dal Buddhaè[^2]: poiché il Buddha era un filosofo raffinatissimo, ma sapeva anche raccontare storie per quelli che hanno bisogno di storie. La faccenda dell'uomo e della freccia va al centro del buddhismo.
