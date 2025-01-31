@@ -1,4 +1,6 @@
-# Al mercato, con le mani aperte
+<link rel="stylesheet" href="../assets/style.css">
+
+### Al mercato, con le mani aperte
 
 Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
 
