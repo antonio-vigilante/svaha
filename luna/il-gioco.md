@@ -1,5 +1,10 @@
 # Il gioco
 
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente](il-carro.md) | [Successivo](al-mercato.md)
+
+
 Due eserciti sono schierati, l’uno di fronte all’altro. Tra un po’ comincerà il rito della guerra. Tra un po’ l’uomo ucciderà l’uomo: questo atto terribile che la propensione umana alla menzogna è riuscita a far diventare eroico, giosioso, epico.
 
 C’è un uomo, un soldato, che guarda la scena perplesso. Scuote il capo. No, non è giusto. Quello che sta per fare va contro i suoi principi. È un soldato, e un soldato deve uccidere; ma qui, nell’esercito nemico, ci sono i suoi parenti, i suoi amici, i suoi maestri. Perché si tratta di una guerra tra clan cugini, i Pandava e i Kaurava.

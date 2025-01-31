@@ -1,4 +1,10 @@
 # Quale vittoria?
+
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente](lo-scassinatore.md) | [Successivo](il-Maestro-e-Margherita.md)
+
+
 Nel film _Il settimo sigillo_ di Ingmar Bergman il cavaliere Antonius Block, reduce dalle crociate, incontra la morte che lo attende in riva al mare.
 
 “È già da molto che ti cammino affianco.”

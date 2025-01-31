@@ -2,7 +2,7 @@
 
 Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
 
-[Indice](index.md) | [Precedente]() | [Successivo]()
+[Indice](index.md) | [Precedente](verificare.md) | [Successivo](il-fuoco.md)
 
 Qualche pagina fa ho parlato di felicità. Ho detto che il paradiso è la condizione in cui siamo capaci di felicità. Rileggendomi provo qualche imbarazzo. È l’imbarazzo che sempre mi suscita l’uso della parola felicità, come l’uso di altre parole – ad esempio, libertà – cui pure non riesco a rinunciare, e che anzi considero importanti.
 

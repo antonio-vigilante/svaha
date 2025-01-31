@@ -1,4 +1,9 @@
 # Fermarsi
+
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente](io-sono-Dio.md) | [Successivo](angulimala.md)
+
 Torniamo alla nostra domanda: perché dovrebbe interessarci la via del Buddha? Perché dovrebbe interessarci la sua partita a scacchi con la morte? In che senso la sua è una vittoria?
 
 Permettimi di ricorrere ancora a Lucrezio. Vorrei dire: al _mio_ Lucrezio. È, lo avrai capito, un autore che amo molto. Mi sono fatto l’idea, leggendo e rileggendo il suo libro, che fosse una persona buona che soffriva molto, nonostante la sua filosofia. All’inizio del terzo libro del suo _De Rerum Natura_ parla del male. Non del male legato al fatto che siamo fragili, esposti ad ogni colpo della vita – quello che i filosofi chiamano male ontologico – ma il male che facciamo noi. Guardate, dice: c’è quello che per far carriera e soldi non esita a compiere qualsiasi disonestà, quell’altro che è roso dall’invidia, quell’altro ancora che si strugge per il desiderio di essere famoso, mentre c’è chi per far soldi causa guerre civili. Una umanità deforme, che sembra venuta fuori da un inferno dipinto da Hieronymus Bosch. Dirai: ma era il mondo romano. No: è il mondo stesso in cui siamo. La differenza è che oggi abbiamo strumenti molto più raffinati per non sembrare (principalmente a noi stessi) quello che siamo. Vendiamo armi per molti milioni di euro a paesi in guerra, diventiamo ricchi grazie alla morte di gente innocente e poi ci indigniamo se qualcuno di loro, scampato, riesce a giungere fino a noi a chiedere aiuto.

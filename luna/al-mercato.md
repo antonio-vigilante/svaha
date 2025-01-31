@@ -1,5 +1,10 @@
 # Al mercato, con le mani aperte
 
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente](il-gioco.md) | [Successivo](le-viscere-del-Buddha.md)
+
+
 Avrai notato una contraddizione in quello che ho scritto fino ad ora. Nella introduzione ho detto che credo nell’individuo e nella sua libertà; poi però ti ho mostrato come per il buddhismo l’individuo sia una illusione e comprenderlo costituisca la via principale per ottenere la liberazione. Come stanno dunque le cose? Nelle ultime pagine c’è la risposta a questa domanda (per quanto domande simili possano avere davvero una risposta); ma vediamo meglio.
 
 Nel buddhismo cinese e giapponese – il chan e lo zen – il cammino verso il risveglio viene illustrato con una storia per immagini. Dieci immagini, per la precisione: le cosiddette icone del bufalo.

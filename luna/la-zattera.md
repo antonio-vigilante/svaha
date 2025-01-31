@@ -1,5 +1,9 @@
 # La zattera
 
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente](miracoli.md) | [Successivo](qui.md)
+
 Dio è una brutta faccenda. Quando hai un Dio ti sembra di avere in mano il mondo. Il tuo io cresce a dismisura. Dio è la fonte della tua sicurezza, del tuo sentirsi a casa nel mondo. Questo da un lato ti lascia alla superficie di te stesso – non vedi il tuo nulla, il tuo vuoto; non attraversi la disperazione che ti conduce al centro di te stesso ed oltre – e dall’altro fa di chiunque metta in discussione o minacci il tuo Dio, la tua rassicurante visione del mondo e la tua sicurezza esistenziale, un nemico. Da abbattere, se necessario. E forse è sempre necessario, perché l’abbattimento del nemico è parte integrante della costruzione del Dio-Sicurezza. È così che religioni che predicano l’amore – e un amore sconfinato, l’amore di chi risponde al male col bene – mettono a ferro e fuoco il mondo, sterminano, schiavizzano, sostengono feroci dittatori dicendoli mandati da Dio.
 
 Avere un Dio – mi riferisco qui al Dio dei monoteismi – significa anche avere un Diavolo, un Anti-Dio. E il Diavolo non è altro che l’incarnazione, la rappresentazione metafisica di tutti i nemici, delle non-persone che è lecito massacrare in nome di Dio. Il Diavolo in occidente è, di volta in volta (e spesso insieme), l’ebreo, l’eretico, la donna, lo straniero; ed è, sempre, l’animale. Se si cercasse un Dio delle vittime, bisognerebbe cercarlo nel Diavolo.  

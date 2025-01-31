@@ -1,4 +1,10 @@
 # Il Maestro e Margherita
+
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente](quale-vittoria.md) | [Successivo](io-sono-Dio.md)
+
+
 Il primo giugno del 1310 davanti all’Hôtel de Ville di Parigi un essere umano viene preso con forza, immobilizzato e bruciato vivo. Quell’essere umano è una donna e la sua colpa è quella di aver pensato Dio, anzi fatto esperienza di Dio, in un modo che spaventa.
 
 Quella donna si chiamava Margherita Porete, e non si sa molto di lei. Certo era una donna colta, pare che avesse addirittura tradotto la Bibbia in volgare; l’accusa contro di lei è quella di aver scritto un libro empio, pericoloso, da cancellare. Si intitola _Le Miroir des âmes simples anéanties et qui seulement demeurent en vouloir et désir d'amour_, ossia _Lo specchio delle anime semplici annientate e che dimorano solamente in volontà e desiderio d’amore_, più noto come Lo specchio delle anime sempici.

@@ -1,4 +1,9 @@
 # Le viscere del Buddha
+
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente](al-mercato.md) | [Successivo](lo-scassinatore.md)
+
 Abbiamo lasciato il Buddha al Parco delle gazzelle. È il suo momento di maggior gloria: raggiunto il Risveglio, si presenta al mondo e mette in moto la ruota del Dharma, dando inizio alla nuova era della liberazione per tutti gli esseri. L’iconografia buddhista ama rappresentare il Buddha circondato da una luce che ne indica l’eccellenza spirituale. È uno degli orpelli con i quali la tradizione ha ritenuto necessario ornare la dignità dell’uomo e farne una figura quasi divina, ma c’è motivo di credere che quel giorno il Buddha, nel pieno della sua govinezza e con la quieta pienezza che gli veniva dalla visione del mondo appena conquistata, avesse realmente un suo certo splendore.
 
 Facciamo ora un passo in avanti di cinquant’anni. Il Buddha ha ottant’anni. La sua dottrina ha avuto successo, la sua figura è nota e venerata, la sua comunità, il Sangha, è numerosa e potente. Eppure il Budha sembra non solo stanco, ma anche amareggiato. Probabilmente sognava di creare una comunità di persone nobili, al di sopra delle macchie umane, purificate dalla sua dottrina, mentre si è ritrovato circondato e seguito da una comunità umana, troppo umana, nella quale non mancano le risse, gli odi, le meschinità. Sa che ha poco da vivere ed è preoccupato per quello che accadrà dopo la sua morte a quella comunità, che ama nonostante la meschinità. La comunità è il veicolo della dottrina, cui affida le sue sorti dopo la morte.

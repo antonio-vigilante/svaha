@@ -1,5 +1,9 @@
 # Miracoli
 
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente](mendicanti.md) | [Successivo](la-zattera.md)
+
 Passeggiando lungo la spiaggia tra Crotone e Sibari, una mattina Pitagora si imbatte in alcuni pescatori che stanno spingendo la barca in mare. Per impressionarli o per giocare un po’ dice loro che è in grado di prevedere quanti pesci prenderanno. I pescatori sono scettici. Giamblico, che racconta l’episodio nella sua _Vita di Pitagora_ [^19], non lo dice, ma sono sicuro che lo prendono anche un po’ in giro, dandogli del matto. In ogni caso si lasciano convincere a scommettere: se la sua predizione sarà esatta, faranno tutto ciò che ordinerà. Sarebbe stato bello vedere le loro facce quanto, tornati in spiaggia, contano i pesci e constatano che sono esattamente quanti aveva predetto Pitagora. Non uno di più, non uno di meno. Cosa chiederà ora Pitagora? Un altro uomo, in un altro tempo, avrebbe detto: lasciate tutto e seguitemi. Pitagora è meno esigente, si limita a chiedere di liberare i pesci nel mare, restituendo loro la vita e la libertà. Poi, affinché non tornino a casa a mani vuote, paga loro il prezzo di tutti i pesci pescati.
 
 Un altro giorno[^20] si imbatte (questa volta in Puglia) in un’orsa feroce, che ha ammazzato un bel po’ di gente. La avvicina con tenerezza, l’accarezza a lungo, le dà da mangiare focacce e frutta e le fa giurare di non toccare più alcun essere umano. L’orsa di allontana nei boschi e da allora smette di essere un pericolo.

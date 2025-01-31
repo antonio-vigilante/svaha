@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "il-carro.md",
+                "file": "il-fuoco.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "il-carro"
+              "title": "il-fuoco"
             }
           }
         ],
@@ -236,8 +236,23 @@
   },
   "active": "b018c38073a0e19e",
   "lastOpenFiles": [
-    "il-vaso-magico.md",
+    "felicita.md",
+    "verificare.md",
+    "qui.md",
+    "la-zattera.md",
+    "miracoli.md",
+    "mendicanti.md",
+    "angulimala.md",
+    "fermarsi.md",
+    "io-sono-Dio.md",
+    "il-Maestro-e-Margherita.md",
+    "quale-vittoria.md",
+    "al-mercato.md",
+    "lo-scassinatore.md",
+    "le-viscere-del-Buddha.md",
+    "il-gioco.md",
     "il-carro.md",
+    "il-vaso-magico.md",
     "havel-havalim.md",
     "io-anzi-no.md",
     "tarkus.md",
@@ -246,21 +261,6 @@
     "colophon.md",
     "psicoterapia.md",
     "il-male.md",
-    "una-storia.md",
-    "nota.md",
-    "introduzione.md",
-    "interessere.md",
-    "la-lotta.md",
-    "index.md",
-    "bibliografia-ragionata.md",
-    "gabbie.md",
-    "oltreio.md",
-    "intermezzo.md",
-    "io-mio.md",
-    "il-dharma-d-occidente.md",
-    "una-notte-insonne.md",
-    "sterco-secco.md",
-    "l-assenza.md",
-    "nagarjuna.md"
+    "una-storia.md"
   ]
 }
