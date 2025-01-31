@@ -4,7 +4,7 @@
 
 Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
 
-[Indice](index.md) | [Precedente](pesi.md)|[Successivo](lignaggio.md)
+[Indice](index.md) | [Precedente](pesi.md) | [Successivo](lignaggio.md)
 
 Stando ai testi il Buddha sapeva esattamente quando sarebbe morto e lo aveva annunciato ai suoi discepoli. Tuttavia non nominò nessun suo successore a capo del Sangha. Poco prima di morire parla ad Ananda. Ora che io morirò, gli dice, potreste pensare che non avete più un maestro. È sbagliato. “Quello che vi ho spiegato e insegnato è che il Dharma e la disciplina, alla mia morte, saranno il vostro maestro”.[^57] E per essere sicuro che il suo insegnamento sia del tutto chiaro, come un insegnante paziente per un’ultima volta chiede ai monaci: c’è ancora qualcosa da spiegare? I monaci restano in silenzio. È tutto chiaro. Il Buddha può morire in pace.
 
