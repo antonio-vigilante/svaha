@@ -2,7 +2,7 @@
 
 ## Abbandonarsi
 
-Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019. 5
 
 [Indice](index.md) | [Precedente](guardare-a-fondo.md)|[Successivo](samatha.md)
 
