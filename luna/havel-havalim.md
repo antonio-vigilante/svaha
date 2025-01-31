@@ -1,5 +1,9 @@
 # Havel havalim
 
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente](io-anzi-no.md) | [Successivo](il-vaso-magico.md)
+
 Il sole non è ancora sorto. Qualche fioca luce attesta l’esistenza del paese, di là dalla valle; ma la valle è ancora immersa nell’oscurità. Fa freddo. Torno nel mio studio, con un brivido. Eccolo, il mio studio: alle pareti le care immagini della dea Saraswati e del dio Shiva, in un angolo la mia chitarra, sulla scrivania i libri ammassati uno sull’altro, in un angolo una statua di legno che raffigura un uccello che imbecca il suo pulcino. Questo è il mio mondo, lì sicuro, disponibile, solido: sono pronto per cominciare la mia giornata.
 
 So, a dire il vero, che tutte queste cose esistono solo nella mia mente. I recettori della retina attraverso il nervo ottico portano le informazioni alle aree posteriori del cervello, che elaborano le immagini nelle quali ora sono immerso. Quello che vedo dipende dunque da due cose: il mio occhio e il mio cervello. Se le aree del cervello che elaborano le immagini fossero danneggiate, non vedrei nulla. E non vedrei nulla se fossero danneggiati i miei occhi.

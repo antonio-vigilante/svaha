@@ -1,5 +1,9 @@
 # Io, anzi no
 
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente](rarkus.md) | [Successivo](havel-havalim.md)
+
 Può essere che le ultime pagine ti siano sembrate ben strane. Abbandonare l'io? Smettere di dire io? Cosa vuol dire? Posso smettere di essere io?
 
 Sì, è sconcertante. Io sono io fin dalla nascita, e io è stata una delle prime parole che ho imparato. Mi hanno insegnato il mio nome e il mio cognome, e da allora queste due parole mi accompagnano. Da quando ho imparato a scrivere, a queste due parole si accompagna un segno: la mia firma. E questo segno lo scrivo quasi ogni giorno da qualche parte. Io dichiaro quanto segue, o mi impegno a, o chiedo di. Tutta la società, a pensarci bene, si basa su questo. Io dichiaro qualcosa e mi assumo la responsabilità di quello che dichiaro. Che succederebbe se dicessi che no, quell'io che ha dichiarato quella cosa in realtà non esiste? Crollerebbe tutto.

@@ -1,4 +1,9 @@
 # Il vaso magico
+
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente](havel-havalim.md) | [Successivo](il-carro.md)
+
 Secondo una tradizione che risale a san Girolamo, il poeta e filosofo latino Lucrezio morì suicida all’età di quarantaquattro anni, dopo essere impazzito a causa di un filtro d’amore. Girolamo non è una fonte attendibile: come cristiano è interessato a mostrare la fragilità di un filosofo pagano; ma leggendo il poema di Lucrezio, il _De Rerum Natura_, colpisce la sensibilità profonda per il dolore umano e la visione disincantata – dolorosamente disincantata – dell’esistenza.
 
 All’inizio dell’ultimo libro del poema, il sesto, Lucrezio parla della nostra infelicità. Anche se abbiamo i beni sufficienti per vivere come desideriamo, anche se abbiamo lodi e onori e siamo potenti, dice, tuttavia soffriamo. C’è in noi qualcosa di cupo, un’ansia che ci tormenta a ci scava dentro e non ci lascia un attimo di pace. Il problema è che noi siamo fatti male. Siamo, dice, come un vaso un po’ forato e un po’ sporco di qualcosa di sgradevole. Se ci versi dentro qualcosa – anche il vino più pregiato – in gran parte va perso, e quel che viene trattenuto si corrompe (Libro VI, vv. 9-23).

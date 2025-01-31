@@ -1,5 +1,9 @@
 # Il carro
 
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente](il-vaso-magico.md) | [Successivo](il-gioco.md)
+
 Uno dei primi occidentali convertiti al buddhismo fu, con ogni probabilità, il re greco Menandro, che ha governato il regno indo-greco (fra l’India e il Pakistan) intorno al secondo secolo avanti Cristo. I buddhisti lo ricordano con il nome Milinda, e il libro che raccoglie i dialoghi tra lui e il saggio buddhista Nagasena, il _Milindapañha_, è uno dei testi più venerati del buddhismo antico.
 
 Questo Nagasena era uno che la sapeva lunga. Quando il re gli chiede come si chiama, lui risponde: “Nagasena, ma è soltanto un nome, perché qui non è presente nessun individuo”[^3]. La cosa sconcerta il re, come sconcerterebbe oggi qualsiasi occidentale. Da secoli siamo abituati a pensare l’essere umano come un insieme di un elemento spirituale, l’anima, e un elemento materiale, il corpo. Da qualche tempo sappiamo che le cose sono più complesse, che quella che chiamiamo anima è una funzione del nostro cervello, e che il corpo non è un abito esteriore, ma parte integrante di quello che siamo. Ma, anche quando non crediamo all’anima, siamo convinti di essere individui in un mondo di individui. Io sono io, non te; e tu non sei me. “Io sono io” è la prima di tutte le nostre certezze.

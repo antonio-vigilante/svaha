@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tarkus.md",
+                "file": "il-carro.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "tarkus"
+              "title": "il-carro"
             }
           }
         ],
@@ -236,6 +236,12 @@
   },
   "active": "b018c38073a0e19e",
   "lastOpenFiles": [
+    "il-vaso-magico.md",
+    "il-carro.md",
+    "havel-havalim.md",
+    "io-anzi-no.md",
+    "tarkus.md",
+    "tarkus 1.md",
     "copertina.md",
     "colophon.md",
     "psicoterapia.md",
@@ -244,7 +250,6 @@
     "nota.md",
     "introduzione.md",
     "interessere.md",
-    "il-vaso-magico.md",
     "la-lotta.md",
     "index.md",
     "bibliografia-ragionata.md",
@@ -256,11 +261,6 @@
     "una-notte-insonne.md",
     "sterco-secco.md",
     "l-assenza.md",
-    "nagarjuna.md",
-    "le-cose-ne-sono-ne-non-sono.md",
-    "il-cuore.md",
-    "la-pietra-delle-meraviglie.md",
-    "ashoka.md",
-    "la-vertigine.md"
+    "nagarjuna.md"
   ]
 }
