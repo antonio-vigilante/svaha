@@ -14,6 +14,4 @@ Questa pagina è dedicata al primo dei due libri. Contiene il testo integrale de
 
 ### Pariyesana 
 
-Appunti, analisi, traduzioni, discussioni intorno al Dharma del Buddha.
-
-[Il mondo della mente. Dhammapada 1](dhammapada-1.md)
+<a href="https://antonio-vigilante.github.io/svaha/pariyesana/index.html" class="button orange">Leggi online</a>  
