@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "il-disincanto.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "il-disincanto"
             }
           }
         ],
@@ -237,6 +237,9 @@
   "active": "b018c38073a0e19e",
   "lastOpenFiles": [
     "il-fuoco.md",
+    "il-silenzio.md",
+    "il-male.md",
+    "index.md",
     "felicita.md",
     "verificare.md",
     "qui.md",
@@ -258,9 +261,6 @@
     "io-anzi-no.md",
     "tarkus.md",
     "tarkus 1.md",
-    "copertina.md",
-    "colophon.md",
-    "psicoterapia.md",
-    "il-male.md"
+    "copertina.md"
   ]
 }

@@ -1,5 +1,9 @@
 # Il fuoco
 
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente](felicita.md) | [Successivo](il-disincanto.md)
+
 La casa sta andando a fuoco. L’uomo assiste alla scena con terrore: dentro ci sono i suoi figli che stanno giocando, senza ancora accorgersi delle fiamme che avvolgono tutto. Pensa di entrare nella casa e portarli fuori uno alla volta, ma ha paura di non riuscire a salvarli tutti. Sono bambini, amano giocare, correre di qua e di là: può essere che, ignari come sono del pericolo, non gli credano. Ma ha un’idea. Entrerà in casa e dirà ai suoi bambini che fuori, proprio davanti alla casa, c’è per ognuno di loro un gioco magnifico. Pare di vederli i bambini che si precipitano fuori dalla casa alla ricerca dei loro nuovi giochi, mettendosi in salvo senza saperlo.
 
 La storia è raccontata nel _Sutra del Loto_, uno dei sutra più importanti del buddhismo mahayana. I giochi che il padre promette ai bambini sono, per la precisione, dei carri. Carri di diversi tipi, trainati da capre, da buoi, da gazzelle. La storia aggiunge anche che, una volta portati fuori i bambini, l’uomo dà loro non i diversi carri che aveva promesso, ma un solo carro meraviglioso. Non è un caso che i giocattoli promessi siano dei carri: alludono ai veicoli, le diverse correnti del buddhismo che, secondo l’insegnamento di quel sutra, confluiscono nel Grande Veicolo del buddhismo mahayana. Ma non è di questo che voglio parlarti ora, bensì del fuoco. Come avrai capito, i bambini della storia siamo noi e la casa in fiamme è il mondo in cui viviamo. Il Dharma è il mezzo utile per uscire dalla casa in fiamme; contiene in sé qualcosa di strumentale – un dolce inganno, per così dire – ma anche molta verità: perché reale, vero, incalzante è il pericolo.
