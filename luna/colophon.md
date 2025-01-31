@@ -1,4 +1,6 @@
-# Colophon
+<link rel="stylesheet" href="../assets/style.css">
+
+### Colophon
 
 [Indice](index.md) | [Precedente](copertina.md) | [Successivo](introduzione.md)
 
