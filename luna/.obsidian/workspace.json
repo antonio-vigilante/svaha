@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "il-fuoco.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "il-fuoco"
+              "title": "index"
             }
           }
         ],
@@ -236,6 +236,7 @@
   },
   "active": "b018c38073a0e19e",
   "lastOpenFiles": [
+    "il-fuoco.md",
     "felicita.md",
     "verificare.md",
     "qui.md",
@@ -260,7 +261,6 @@
     "copertina.md",
     "colophon.md",
     "psicoterapia.md",
-    "il-male.md",
-    "una-storia.md"
+    "il-male.md"
   ]
 }

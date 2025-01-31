@@ -34,7 +34,7 @@ Il Buddha diceva di non essere un maestro “dal pugno chiuso”, di quelli che 
 [Il silenzio](il-silenzio.md)  
 [Verificare da sé](verificare.md)  
 [La felicità](felicita.md)  
-[Il fuoco](il-fuoco-md)  
+[Il fuoco](il-fuoco.md)  
 [Il disincanto](il-disincanto.md)  
 [Rinascere](rinascere.md)  
 [Il karman](il-karman.md)  
