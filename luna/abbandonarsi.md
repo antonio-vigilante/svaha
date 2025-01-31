@@ -4,7 +4,7 @@
 
 Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019. 
 
-[Indice](index.md) | [Precedente](guardare-a-fondo.md)|[Successivo](samatha.md)
+[Indice](index.md) | [Precedente](guardare-a-fondo.md) | [Successivo](samatha.md)
 
 Il filosofo francese René Descartes sosteneva che esistono due sostanze: il pensiero, che chiamava _res cogitans_, e la materia, _res extensa_. In noi la materia è il corpo, il pensiero è l’anima; e se l’anima viene da Dio, il corpo non è che un meccanismo. Gli animali, che non hanno anima, per Descartes non solo altro che automi, macchine complesse, ammirevoli nella loro perfezione, ma prive di qualsiasi luce spirituale. Il nostro stesso corpo è una macchina, unita allo spirito attraverso la ghiandola pineale.
 
