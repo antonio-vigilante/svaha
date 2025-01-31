@@ -4,7 +4,7 @@
 
 Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
 
-[Indice](index.md) | [Precedente](veicoli.md)|[Successivo](la-vertigine.md)
+[Indice](index.md) | [Precedente](veicoli.md) | [Successivo](la-vertigine.md)
 
 Ripensiamo ad Arjuna nel campo dei Kuru. È fermo, bloccato non dalla paura, ma dal dubbio. Sta per uccidere, e questo gli sembra terribile. È un soldato, e uccidere è il suo dovere, ma di fronte ha persone a lui care. Cosa è giusto? La prima volta che lessi la _Bhagavad-Gita_ questa scena mi colpì profondamente: e ancora adesso la considero uno dei momenti più alti della letteratura universale. Ma la lettura di quel che venne dopo mi confuse. Da un lato trovavo insegnamenti altissimi, compreso l’insegnamento dell’ahimsa, la nonviolenza verso ogni forma di vita; dall’altro però Krishna convince Arjuna a fare il suo dovere di soldato, poiché, in fondo, sono già tutti morti, già tutti uccisi da Dio stesso.
 
