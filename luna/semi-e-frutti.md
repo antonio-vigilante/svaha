@@ -1,4 +1,10 @@
-# Semi e frutti
+<link rel="stylesheet" href="../assets/style.css">
+
+### Semi e frutti
+
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente](intenzione.md)|[Successivo](la-ruota.md)
 
 Ho compiuto un’azione con una certa intenzione. L’azione può sembrare brutta ma avere dietro una bella intenzione, o al contrario sembrare bella e avere dietro una brutta intenzione. Posso uccidere qualcuno per amore, come abbiamo visto, ma posso anche proteggere e aiutare qualcuno per riceverne un tornaconto personale. O addirittura per vendetta contro qualcuno. Posso anche, naturalmente, compiere un’azione bella animata da una bella intenzione o un'azione brutta accompagnata da una brutta intenzione.
 
