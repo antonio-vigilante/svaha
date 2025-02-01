@@ -1,4 +1,10 @@
-# Rinascere
+<link rel="stylesheet" href="../assets/style.css">
+
+### Rinascere
+
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente](il-disincanto.md)|[Successivo](il-karman.md)
 
 C’è stato un periodo, nella mia adolescenza, in cui credevo nella reincarnazione. Nella metempsicosi, per essere preciso. Credevo che dopo questa vita ne avrei avuta un’altra, e poi un’altra, e un’altra ancora. Credevo che sarei rinato come essere umano, ma anche come animale o pianta. Questa credenza però non aveva nulla di pessimistico, come nel buddhismo. Ero convinto che questo continuo reincarnarsi avesse una logica meravigliosa. Chi aveva compiuto il male in questa vita, lo avrebbe subito nella successiva. In questo modo avrebbe compreso cosa vuol dire fare del male e si sarebbe convertito al bene. Chi aveva disprezzato la vita non umana sarebbe rinato animale. Eccetera. In questo modo tutte le anime, attraverso un processo pedagogico cosmico inesorabile, sarebbero giunte al Bene finale. Nessuno si sarebbe dannato per l’eternità. La salvezza sarebbe stata universale. E ciò sarebbe avvenuto grazie ad una legge di cui già allora conoscevo il nome: il karman. Ciò che fa sì che l’azione compiuta in questa vita porti a dei frutti nelle prossime vite.
 
