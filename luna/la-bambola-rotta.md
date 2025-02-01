@@ -1,4 +1,6 @@
-# La bambola rotta
+<link rel="stylesheet" href="../assets/style.css">
+
+### La bambola rotta
 
 Un giorno un asceta itinerante di nome Sivaka va a far visita al Buddha in un boschetto di bambù per interrogarlo su una teoria che ha sentito presso altri saggi: che tutto quello che sentiamo – piacere o dolore – è null’altro che frutto del karman. È proprio così? Non si limita a chiederselo: ha bisogno di chiederlo ad altri, a persone che riconosce autorevoli; e il Buddha è tra questi. Non dimentichiamo mai questo contesto: il Dharma del Buddha nasce in un tempo e in un luogo in cui esistono persone che si pongono molte domande e sono disposte anche a fare un lungo cammino per ottenere una risposta. E la risposta dovrà essere convincente: è un’epoca di dispute, nelle quali a vincere non è chi ha più potere o autorità, ma chi ragiona meglio.
 
