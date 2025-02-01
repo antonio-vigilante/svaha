@@ -1,4 +1,6 @@
-# Il gioco
+<link rel="stylesheet" href="../assets/style.css">
+
+### Il gioco
 
 Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
 
