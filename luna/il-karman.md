@@ -1,4 +1,8 @@
-# Il karman
+<link rel="stylesheet" href="../assets/style.css">
+
+### Il karman
+
+[Indice](index.md) | [Precedente](rinascere.md) | [Successivo](intenzione.md)
 
 La credenza nel karman ha indubbiamente una sua efficacia. Consente di rispondere a molte domande, e sono domande importanti. Qualche giorno fa ho partecipato ad un convegno sul tema della felicità. C’erano un monaco buddhista, un monaco cristiano e alcuni scienziati. Uno di loro, un fisico, durante il suo intervento ha ricordato le parole terribili di Ivan Karamazov. Perché la sofferenza di un bambino? Quale verità religiosa è compatibile con un bambino di otto anni sbranato da un cane? Quale armonia universale, quale liberazione finale può cancellare, riparare, compensare questo orrore? Nella Bibbia i bambini sono assenti. Il loro dolore non sembra un gran problema. Del resto, per molti secoli in occidente la morte dei bambini entro una certa età è stata considerata un fatto normale, e diffuso era l’infanticidio. Il problema della Bibbia è quello del giusto. Perché il giusto soffre e il malvagio prospera? Come pensare che ci sia un Dio, se nel mondo il bene appare così fragile e il male così solido?
 
