@@ -1,4 +1,8 @@
-# La ruota
+<link rel="stylesheet" href="../assets/style.css">
+
+### La ruota
+
+[Indice](index.md) | [Precedente](semi-e-frutti.md) | [Successivo](la-bambola-rotta.md)
 
 Nel film di Luis Buñuel _L’angelo sterminatore_ un po’ di bella gente dell’alta borghesia si ritrova ad una festa, dalla quale però gli ospiti non riescono più ad andarsene. Quando ormai è mattino si avviano all’uscita della villa sontuosa che li ospita, ma si accorgono di non riuscire semplicemente a varcare la soglia che separa il dentro dal fuori. Si trattengono nella casa per la notte, dormendo dove possono, e ci riprovano al mattino, ma nulla: non ce la fanno proprio ad uscire. Nessun impedimento reale, semplicemente qualcosa che li trattiene. Si accorgono di essere intrappolati. Restano in quella casa per giorni, elaborando strategie di fuga sempre più irrazionali: qualcuno si dà alla stregoneria, qualche altro cerca un capro espiatorio, qualcuno muore. Riescono ad uscirne, ma solo per finire in un’altra prigione: ritrovatisi in chiesa, si accorgono di essere nuovamente intrappolati.
 
