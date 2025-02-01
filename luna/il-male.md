@@ -1,4 +1,6 @@
-# Il male
+<link rel="stylesheet" href="../assets/style.css">
+
+### Il male
 
 Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
 
