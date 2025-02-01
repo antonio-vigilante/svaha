@@ -2,6 +2,8 @@
 
 ### Il karman
 
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
 [Indice](index.md) | [Precedente](rinascere.md) | [Successivo](intenzione.md)
 
 La credenza nel karman ha indubbiamente una sua efficacia. Consente di rispondere a molte domande, e sono domande importanti. Qualche giorno fa ho partecipato ad un convegno sul tema della felicità. C’erano un monaco buddhista, un monaco cristiano e alcuni scienziati. Uno di loro, un fisico, durante il suo intervento ha ricordato le parole terribili di Ivan Karamazov. Perché la sofferenza di un bambino? Quale verità religiosa è compatibile con un bambino di otto anni sbranato da un cane? Quale armonia universale, quale liberazione finale può cancellare, riparare, compensare questo orrore? Nella Bibbia i bambini sono assenti. Il loro dolore non sembra un gran problema. Del resto, per molti secoli in occidente la morte dei bambini entro una certa età è stata considerata un fatto normale, e diffuso era l’infanticidio. Il problema della Bibbia è quello del giusto. Perché il giusto soffre e il malvagio prospera? Come pensare che ci sia un Dio, se nel mondo il bene appare così fragile e il male così solido?
@@ -16,4 +18,4 @@ In tutte le religioni c’è un germe rivoluzionario, poiché esprimono sempre, 
 
 A livello popolare la dottrina del karman ispira pratiche che hanno del superstizioso, oltre a favorire la corruzione dei monaci (perché, è chiaro, dare soldi ai monasteri è uno dei modi migliori per ottenere un buon karman). A livello filosofico, è una sorta di rompicapo.
 
-[^25]: E. Cioran,<i>Il funesto demiurgo</i>, Adelphi, Milano 1986, p. 11. 
+[^25]: E. Cioran, <i>Il funesto demiurgo</i>, Adelphi, Milano 1986, p. 11. 
