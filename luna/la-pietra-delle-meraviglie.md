@@ -1,5 +1,6 @@
+<link rel="stylesheet" href="../assets/style.css">
 
-# La pietra delle meraviglie
+### La pietra delle meraviglie
 
 Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
 
