@@ -14,4 +14,6 @@ Questa pagina è dedicata al primo dei due libri. Contiene il testo integrale de
 
 ### Pariyesana 
 
+Appunti, analisi, traduzioni, discussioni intorno al Dharma del Buddha.
+
 <a href="https://antonio-vigilante.github.io/svaha/pariyesana/index.html" class="button orange">Leggi online</a>  
