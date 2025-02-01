@@ -2,6 +2,10 @@
 
 ### La bambola rotta
 
+Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
+
+[Indice](index.md) | [Precedente](la-ruota.md) | [Successivo](la-luce-della-luna.md)
+
 Un giorno un asceta itinerante di nome Sivaka va a far visita al Buddha in un boschetto di bambù per interrogarlo su una teoria che ha sentito presso altri saggi: che tutto quello che sentiamo – piacere o dolore – è null’altro che frutto del karman. È proprio così? Non si limita a chiederselo: ha bisogno di chiederlo ad altri, a persone che riconosce autorevoli; e il Buddha è tra questi. Non dimentichiamo mai questo contesto: il Dharma del Buddha nasce in un tempo e in un luogo in cui esistono persone che si pongono molte domande e sono disposte anche a fare un lungo cammino per ottenere una risposta. E la risposta dovrà essere convincente: è un’epoca di dispute, nelle quali a vincere non è chi ha più potere o autorità, ma chi ragiona meglio.
 
 La risposta del Buddha a Sivaka è sorprendente: no, dice, non è affatto così. Non sempre, almeno. Il dolore non è sempre il risultato del karma. Può essere causato semplicemente da un problema fisico: può derivare dalla bile, dai cambi di stagione, da scarsa cura del corpo… Dunque coloro che dicono che tutto ciò che sentiamo è frutto del karman, conclude, si sbagliano; e _si sbagliano perché si spingono al di là di ciò che possono conoscere_. [^28]
