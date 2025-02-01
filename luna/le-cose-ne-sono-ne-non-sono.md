@@ -1,5 +1,6 @@
+<link rel="stylesheet" href="../assets/style.css">
 
-# Le cose né sono né non sono
+### Le cose né sono né non sono
 
 Antonio Vigilante, _La luna nell’acqua. Una mappa per perdersi nel Dharma del Buddha_, Tethis, Torino 2019.
 
