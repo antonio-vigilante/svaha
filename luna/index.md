@@ -32,6 +32,7 @@ Il Buddha diceva di non essere un maestro “dal pugno chiuso”, di quelli che 
 [Mendicanti](mendicanti.md)  
 [Miracoli](miracoli.md)   
 [La zattera](la-zattera.md)   
+[Kusala](kusala.md)  
 [Qui](qui.md)  
 [Il silenzio](il-silenzio.md)  
 [Verificare da sé](verificare.md)  
