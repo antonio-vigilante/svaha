@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../assets/style.css">
+
 ## Pariyesana
 
 Appunti, analisi, traduzioni, discussioni intorno al Dharma del Buddha.
