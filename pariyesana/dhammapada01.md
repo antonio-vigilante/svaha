@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../assets/style.css">
+
 ## Il mondo della mente
 
 ### Dhammapada 1
