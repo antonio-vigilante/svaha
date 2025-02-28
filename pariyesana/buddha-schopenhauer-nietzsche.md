@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../assets/style.css">
+
 ## Il Buddha, Schopenhauer, Nietzsche
 
 Il Buddha avrebbe disapprovato per più ragioni il pensiero di Schopenhauer; prima fra tutte, per la metafisica del Wille. Il Buddha resta sempre sul piano pragmatico: c'è la sofferenza, la sofferenza nasce dal desiderio, il desiderio nasce dall'ignoranza. Qualsiasi questione metafisica è inopportuna. Pensare che esista un Dio, un Essere o un Qualsiasi-altro non aggiunge nulla al lavoro per la liberazione, e rischia di togliere molto: perché questo fondamento metafisico, qualunque sia, diventa nuova fonte di attaccamento. 
